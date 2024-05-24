@@ -4,4 +4,4 @@ DESCRIÇÂO.
 Sistema desenvolvido para empresas e referente a ODS 12.6
 
 MECÂNICAS.
-O usuario irá filtrar os resíduos selecionados, irá mostrar as pesuqisas desejadas como: peso ou data de certo descarte e qual time de material foi solicidado. 
+O usuario cadastrar e filtrar os resíduos selecionados, irá mostrar as pesuqisas desejadas como: peso ou data de certo descarte e qual tipo de material (quimíco ou eletrônico) foi solicitado. 
