@@ -13,6 +13,7 @@ use KaitechControl;
 
 create table ControleDeResiduo
 (
+	id primary key not null,
 	cod_controlededesiduo int auto_increment primary key not null,
 	pesoKg double not null,
 	status varchar(50) not null,
@@ -23,6 +24,7 @@ create table ControleDeResiduo
     
 create table ResiduoEletronico
 (
+	id primary key not null,
 	cod_residuoeltronico int auto_increment primary key not null,
 	cod_controlededesiduo int not null,
 	nomeEquipamento varchar(50) null,
